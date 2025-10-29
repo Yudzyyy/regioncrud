@@ -1,0 +1,10 @@
+body {
+    /* Warna background abu-abu muda */
+    background-color: #f8f9fa; 
+}
+
+/* Kita kasih jarak atas untuk semua konten utama
+   agar tidak tertutup Navbar */
+.main-content {
+    padding-top: 70px; 
+}
