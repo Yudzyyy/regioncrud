@@ -1,5 +1,7 @@
 # 🚀 Tugas Bootcamp: CRUD Region (Java Spring Boot + Thymeleaf)
 
+Nama : Titis Wahyudi Putro
+
 Ini adalah project Spring Boot untuk memenuhi tugas bootcamp, yaitu membuat aplikasi **CRUD (Create, Read, Update, Delete)** untuk data Region.
 
 Aplikasi ini dibangun menggunakan Spring Boot, Spring Data JPA (dengan H2 Database), dan Thymeleaf. Tampilannya dibuat modern dan responsif menggunakan **Bootstrap 5**, **Bootstrap Icons**, dan CSS kustom untuk layout yang bersih.
